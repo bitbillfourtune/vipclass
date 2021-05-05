@@ -1,0 +1,15 @@
+.fundo {
+  background-color: black;
+}
+
+.logo {
+  width: 24%;
+  height: 24%;
+  padding-left: 12%;
+  padding-top: 1%;
+}
+
+html,
+body {
+  color: white;
+}

@@ -1,0 +1,8 @@
+.tituloGrande {
+  font-weight: bolder;
+  font-size: 180px;
+}
+
+.navbar {
+  border-bottom: 1px solid #454545;
+}
