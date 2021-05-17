@@ -1,0 +1,37 @@
+.card {
+    background-color: transparent;
+    min-width: 90%;
+    min-height: 450px;
+}
+
+.tituloGrande {
+    padding-top: 2%;
+    font-size: 100px;
+    font-family: 'Libre Franklin';
+    padding-left: 20%;
+}
+
+.subtitulo {
+    font-size: 20px;
+    display: flex;
+    align-self: flex-end;
+    padding-left: 0px;
+}
+
+.btnStart {
+    padding-left: 42%;
+}
+
+.cryptoCard {
+    padding-left: 20%;
+}
+
+.cryptoIcon {
+    width: 150%;
+    height: 150%;
+}
+
+.anuncioPrincipal {
+    width: 70%;
+    height: 70%;
+}
