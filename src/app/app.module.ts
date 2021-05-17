@@ -11,6 +11,7 @@ import { StartComponent } from './components/start/start.component';
 import { ButtonComponent } from './components/button/button.component';
 import { UserCardComponent } from './components/user-card/user-card.component';
 import { LoginComponent } from './pages/login/login.component';
+import { AddProductComponent } from './pages/add-product/add-product.component';
 
 // import { AngularFireModule } from '@angular/fire';
 // import { AngularFireAuthModule } from '@angular/fire/auth';
@@ -24,7 +25,8 @@ import { LoginComponent } from './pages/login/login.component';
     StartComponent,
     ButtonComponent,
     UserCardComponent,
-    LoginComponent
+    LoginComponent,
+    AddProductComponent
   ],
   imports: [
     BrowserModule,
